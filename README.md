@@ -1,5 +1,5 @@
 # Probability_Q
-Using Python libraries to answer some probability questions
+Using Python libraries to answer some probability questions with permutation, combinations and discrete and continuous probability models.
 
 1. Permutations and Combinations - using python.scipy.special 
 
