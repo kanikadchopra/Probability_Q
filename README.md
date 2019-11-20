@@ -4,4 +4,5 @@ Using Python libraries to answer some probability questions with permutation, co
 1. Permutations and Combinations - using python.scipy.special 
 
 
-# Future Additions: Answering probability questions with binomials, hypergeometrics, gaussian, etc.
+#### Future Additions:
+Answering probability questions with binomials, hypergeometrics, gaussian, etc.
